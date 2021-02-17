@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0-alpha-20201231-171-g04173' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "encoded_sources/color_point1.png/invertbuttons.png"; bbox 0 0 1247 269; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 369 204 652 233">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 369 204 652 233">
+     <span class='ocr_caption' id='line_1_1' title="bbox 369 204 652 233; baseline 0 -10; x_size 19.238094; x_descenders 5.2380953; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_1' title='bbox 369 205 423 233; x_wconf 95'>Convert</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 486 204 549 233; x_wconf 96'>Translate</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 614 209 652 223; x_wconf 96'>Reset</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1247 269">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 0 0 1247 269">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1247 269; baseline 0 0; x_size 360; x_descenders 90; x_ascenders 90">
+      <span class='ocrx_word' id='word_1_4' title='bbox 0 0 1247 269; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

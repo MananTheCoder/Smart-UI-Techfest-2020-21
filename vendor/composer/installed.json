@@ -1,0 +1,48 @@
+[
+    {
+        "name": "thiagoalessio/tesseract_ocr",
+        "version": "2.9.5",
+        "version_normalized": "2.9.5.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/thiagoalessio/tesseract-ocr-for-php.git",
+            "reference": "82cfd7879d6158be3098714f1d5c860f344a0e29"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/thiagoalessio/tesseract-ocr-for-php/zipball/82cfd7879d6158be3098714f1d5c860f344a0e29",
+            "reference": "82cfd7879d6158be3098714f1d5c860f344a0e29",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^5.3 || ^7.0 || ^8.0"
+        },
+        "require-dev": {
+            "phpunit/php-code-coverage": "^2.2.4 || ^9.0.0"
+        },
+        "time": "2020-12-07T18:48:58+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "thiagoalessio\\TesseractOCR\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "thiagoalessio",
+                "email": "thiagoalessio@me.com"
+            }
+        ],
+        "description": "A wrapper to work with Tesseract OCR inside PHP.",
+        "keywords": [
+            "OCR",
+            "Tesseract",
+            "text recognition"
+        ]
+    }
+]

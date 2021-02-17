@@ -1,0 +1,1 @@
+a:3:{s:5:"image";s:49:""encoded_sources/textinput.png/colorspace_16.png"";s:4:"bbox";a:4:{i:0;s:1:"0";i:1;s:1:"0";i:2;s:4:"1185";i:3;s:2:"42";}s:7:"ppageno";s:1:"0";}

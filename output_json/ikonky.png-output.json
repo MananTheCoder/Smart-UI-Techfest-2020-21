@@ -1,0 +1,203 @@
+
+[
+    {
+        "element": "text",
+        "x": 0,
+        "y": 152,
+        "width": 35,
+        "height": 25,
+        "properties": {
+            "text": "x"
+        }
+    },
+    {
+        "element": "text",
+        "x": 9,
+        "y": 81,
+        "width": 22,
+        "height": 92,
+        "properties": {
+            "text": "oo"
+        }
+    },
+    {
+        "element": "text",
+        "x": 10,
+        "y": 45,
+        "width": 127,
+        "height": 19,
+        "properties": {
+            "text": "kw"
+        }
+    },
+    {
+        "element": "text",
+        "x": 13,
+        "y": 12,
+        "width": 53,
+        "height": 16,
+        "properties": {
+            "text": "*e"
+        }
+    },
+    {
+        "element": "text",
+        "x": 47,
+        "y": 121,
+        "width": 22,
+        "height": 46,
+        "properties": {
+            "text": "@o"
+        }
+    },
+    {
+        "element": "text",
+        "x": 87,
+        "y": 81,
+        "width": 19,
+        "height": 86,
+        "properties": {
+            "text": "eo"
+        }
+    },
+    {
+        "element": "text",
+        "x": 88,
+        "y": 41,
+        "width": 20,
+        "height": 33,
+        "properties": {
+            "text": "we"
+        }
+    },
+    {
+        "element": "text",
+        "x": 123,
+        "y": 122,
+        "width": 22,
+        "height": 45,
+        "properties": {
+            "text": "Pa"
+        }
+    },
+    {
+        "element": "text",
+        "x": 124,
+        "y": 41,
+        "width": 17,
+        "height": 33,
+        "properties": {
+            "text": "&lt;"
+        }
+    },
+    {
+        "element": "text",
+        "x": 126,
+        "y": 81,
+        "width": 17,
+        "height": 19,
+        "properties": {
+            "text": "o"
+        }
+    },
+    {
+        "element": "text",
+        "x": 127,
+        "y": 7,
+        "width": 167,
+        "height": 23,
+        "properties": {
+            "text": "Cer"
+        }
+    },
+    {
+        "element": "text",
+        "x": 161,
+        "y": 81,
+        "width": 24,
+        "height": 86,
+        "properties": {
+            "text": "oA"
+        }
+    },
+    {
+        "element": "text",
+        "x": 200,
+        "y": 79,
+        "width": 22,
+        "height": 88,
+        "properties": {
+            "text": "Pla"
+        }
+    },
+    {
+        "element": "text",
+        "x": 231,
+        "y": 120,
+        "width": 34,
+        "height": 18,
+        "properties": {
+            "text": "co"
+        }
+    },
+    {
+        "element": "text",
+        "x": 231,
+        "y": 151,
+        "width": 34,
+        "height": 21,
+        "properties": {
+            "text": "8"
+        }
+    },
+    {
+        "element": "text",
+        "x": 237,
+        "y": 45,
+        "width": 24,
+        "height": 122,
+        "properties": {
+            "text": "3"
+        }
+    },
+    {
+        "element": "text",
+        "x": 240,
+        "y": 3,
+        "width": 57,
+        "height": 36,
+        "properties": {
+            "text": "TTB"
+        }
+    },
+    {
+        "element": "text",
+        "x": 277,
+        "y": 121,
+        "width": 22,
+        "height": 48,
+        "properties": {
+            "text": "GO"
+        }
+    },
+    {
+        "element": "text",
+        "x": 279,
+        "y": 45,
+        "width": 17,
+        "height": 19,
+        "properties": {
+            "text": "&gt;"
+        }
+    },
+    {
+        "element": "text",
+        "x": 279,
+        "y": 80,
+        "width": 18,
+        "height": 22,
+        "properties": {
+            "text": "a"
+        }
+    }
+]

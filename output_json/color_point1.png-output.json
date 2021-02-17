@@ -1,0 +1,123 @@
+
+[
+    {
+        "element": "button",
+        "x": 369,
+        "y": 205,
+        "width": 54,
+        "height": 28,
+        "properties": {
+            "text": "Convert"
+        }
+    },
+    {
+        "element": "button",
+        "x": 486,
+        "y": 204,
+        "width": 63,
+        "height": 29,
+        "properties": {
+            "text": "Translate"
+        }
+    },
+    {
+        "element": "button",
+        "x": 614,
+        "y": 209,
+        "width": 38,
+        "height": 14,
+        "properties": {
+            "text": "Reset"
+        }
+    },
+    {
+        "element": "text",
+        "x": 40,
+        "y": 115,
+        "width": 66,
+        "height": 24,
+        "properties": {
+            "text": "WorkFlow:"
+        }
+    },
+    {
+        "element": "text",
+        "x": 41,
+        "y": 18,
+        "width": 61,
+        "height": 12,
+        "properties": {
+            "text": "Document"
+        }
+    },
+    {
+        "element": "text",
+        "x": 48,
+        "y": 144,
+        "width": 38,
+        "height": 28,
+        "properties": {
+            "text": "Select"
+        }
+    },
+    {
+        "element": "text",
+        "x": 64,
+        "y": 195,
+        "width": 8,
+        "height": 23,
+        "properties": {
+            "text": "Fi"
+        }
+    },
+    {
+        "element": "text",
+        "x": 99,
+        "y": 199,
+        "width": 33,
+        "height": 12,
+        "properties": {
+            "text": "Update"
+        }
+    },
+    {
+        "element": "text",
+        "x": 107,
+        "y": 18,
+        "width": 19,
+        "height": 12,
+        "properties": {
+            "text": "IDs"
+        }
+    },
+    {
+        "element": "text",
+        "x": 313,
+        "y": 153,
+        "width": 11,
+        "height": 10,
+        "properties": {
+            "text": "Vv"
+        }
+    },
+    {
+        "element": "text",
+        "x": 345,
+        "y": 119,
+        "width": 44,
+        "height": 15,
+        "properties": {
+            "text": "Priority"
+        }
+    },
+    {
+        "element": "select",
+        "x": 352,
+        "y": 151,
+        "width": 35,
+        "height": 12,
+        "properties": {
+            "text": "Select"
+        }
+    }
+]

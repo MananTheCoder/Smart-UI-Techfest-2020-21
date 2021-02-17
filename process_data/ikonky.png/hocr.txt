@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0-alpha-20201231-171-g04173' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "source_imgs/ikonky.png"; bbox 0 0 303 185; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 9 3 299 174">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 9 3 299 174">
+     <span class='ocr_line' id='line_1_1' title="bbox 277 9 299 169; baseline -160 160; x_size 26.90604; x_descenders 5.9060402; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 279 9 297 102; x_wconf 0'>on</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 277 118 299 169; x_wconf 0'>ge</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 237 3 261 167; baseline 82 -82; x_size 30.644295; x_descenders 6.6442952; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_3' title='bbox 243 3 256 23; x_wconf 67'>*</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 226 52 265 98; x_wconf 28'>#€3</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 238 117 260 167; x_wconf 44'>05</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 200 11 222 167; baseline 156 -624; x_size 24.167786; x_descenders 5.1677852; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_6' title='bbox 200 11 222 167; x_wconf 34'>¢€¢pnla</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 161 10 185 167; baseline 78.5 -392.5; x_size 26.167786; x_descenders 5.1677852; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_7' title='bbox 161 10 185 167; x_wconf 0'>§droPa</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 123 6 145 167; x_size 23.167786; x_descenders 5.1677852; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_8' title='bbox 123 6 145 167; x_wconf 18'>vyvo®pa</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 87 6 106 167; baseline 161 -322; x_size 24.536913; x_descenders 5.5369129; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_9' title='bbox 77 6 110 68; x_wconf 37'>Ax*</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 87 84 106 167; x_wconf 13'>G48</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 47 12 69 167; baseline 155 -620; x_size 26.167786; x_descenders 5.1677852; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_11' title='bbox 47 12 69 167; x_wconf 18'>ek</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 39 84 73 102; x_wconf 18'>G¢</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 47 118 69 167; x_wconf 49'>@o</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 9 11 31 174; x_size 26.90604; x_descenders 5.9060402; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_14' title='bbox 10 11 30 100; x_wconf 12'>KO</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 9 123 31 174; x_wconf 41'>ad</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

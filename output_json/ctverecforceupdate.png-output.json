@@ -1,0 +1,23 @@
+
+[
+    {
+        "element": "text",
+        "x": 29,
+        "y": 10,
+        "width": 29,
+        "height": 12,
+        "properties": {
+            "text": "Force"
+        }
+    },
+    {
+        "element": "text",
+        "x": 63,
+        "y": 10,
+        "width": 41,
+        "height": 15,
+        "properties": {
+            "text": "Update"
+        }
+    }
+]
